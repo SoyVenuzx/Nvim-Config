@@ -1,11 +1,16 @@
-vim.cmd[[colorscheme dracula]]
+-- vim.cmd[[colorscheme dracula]]
+-- vim.cmd[[colorscheme rośepine]]
+-- require('monokai').setup {
+--   palette = require('monokai').ristretto
+-- }
 
+-- require('palenight').set()
 
 -- Gruvbox
 -- vim.cmd([[colorscheme gruvbox]])
 -- vim.g.tokyonight_style = "storm"
 -- vim.g.tokyonight_italic_functions = true
--- -- vim.g.tokyonight_sidebars = { "qf", "vista_kind", "terminal", "packer" }
+-- vim.g.tokyonight_sidebars = { "qf", "vista_kind", "terminal", "packer" }
 -- vim.g.tokyonight_transparent_sidebar = true
 -- vim.g.tokyonight_transparent = true
 -- vim.cmd([[colorscheme tokyonight]])
